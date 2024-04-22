@@ -11,9 +11,11 @@
             "id": "e9aacf7910e883dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Diagram.svg"
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagram.svg",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagram.svg",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagram.svg"
+                "file": "README.md"
               }
             }
           }
@@ -146,9 +148,9 @@
   },
   "active": "e9aacf7910e883dc",
   "lastOpenFiles": [
+    "Diagram.svg",
     "README.md",
     "Diagram.svg.xml",
-    "Diagram.svg",
     "Untitled Diagram.svg"
   ]
 }
