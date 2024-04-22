@@ -47,5 +47,6 @@ Once the data pipeline runs successfully, data will be available in the `covidtr
 
 ## Diagram
 
-![[Diagram.svg]]
+![image](https://github.com/McG33k/CovidTracking/assets/14897813/ad2f0fb3-140c-4132-a155-6b0032a3608c)
+
 
