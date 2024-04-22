@@ -45,5 +45,7 @@ Once the data pipeline runs successfully, data will be available in the `covidtr
 - **System Scalability**: Designed to handle increases in data volume with minimal configuration adjustments.
 - **Error Handling**: Includes basic error handling for API connectivity issues, with potential for more sophisticated mechanisms.
 
+## Diagram
 
+![[Diagram.svg]]
 

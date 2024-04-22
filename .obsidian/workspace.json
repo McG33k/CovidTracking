@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "cb003c52f87b1b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e00505c66dd45f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9aacf7910e883dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Diagram.svg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3933005fe2df9007",
+    "type": "split",
+    "children": [
+      {
+        "id": "939fe3d2cd9f7f49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a1f4a9a63e67ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "431f006b30fabb8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bcb676b20964bd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f77b0a0b911610e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bb58acc65b7c4eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47410daae4af6669",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diagram.svg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66dc7f0b4e9ac4d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diagram.svg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47a99d2fde4ed2fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c65178cb0d99a7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diagram.svg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e9aacf7910e883dc",
+  "lastOpenFiles": [
+    "README.md",
+    "Diagram.svg.xml",
+    "Diagram.svg",
+    "Untitled Diagram.svg"
+  ]
+}
